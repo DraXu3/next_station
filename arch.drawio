@@ -16,7 +16,7 @@
         <mxCell id="YaNhLwsbdKi2lCV9zhRY-24" value="Kubernetes Cluster" style="whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;strokeColor=#999999;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="460" y="230" width="330" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="YaNhLwsbdKi2lCV9zhRY-1" value="Radio Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YaNhLwsbdKi2lCV9zhRY-1" value="Stream Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YaNhLwsbdKi2lCV9zhRY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YaNhLwsbdKi2lCV9zhRY-5" target="YaNhLwsbdKi2lCV9zhRY-8">
